@@ -5,9 +5,9 @@
 
 ## [PX30简介](https://github.com/sochub/PX30/wiki)
 
-[![sites](docs/PX30.png)](docs/)
+[![sites](docs/PX30.png)](http://www.rock-chips.com/a/cn/product/rkpower/2018/0709/914.html)
 
-瑞芯微4核 A35 with 1.5GHz，规格对标[RK3326](https://github.com/sochub/RK3326) 通信增强。
+瑞芯微4核 A35 with 1.5GHz，规格对标[RK3326](https://github.com/sochub/RK3326)，拥有更多的通信接口。
 
 主要特点：8M ISP，6串口
 
