@@ -1,13 +1,16 @@
-﻿# [PX30](https://github.com/sochub/PX30)
-[![sites](SoC/qitas.png)](http://www.qitas.cn)
-#### 厂商：[rockchips](https://github.com/sochub/rockchips)
-#### 架构：[cortex A35](https://github.com/sochub/CA35)
+﻿# [PX30](https://github.com/SoCXin/PX30)
 
-## [PX30简介](https://github.com/sochub/PX30/wiki)
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[rock-chips](https://github.com/SoCXin/rockchips)
+#### [Core](https://github.com/SoCXin/Cortex) ：[cortex A35](https://github.com/SoCXin/CA35)
+#### [Level](https://github.com/SoCXin/Level) ：1.3GHz
+
+## [PX30简介](https://github.com/SoCXin/PX30/wiki)
 
 [![sites](docs/PX30.png)](http://www.rock-chips.com/a/cn/product/rkpower/2018/0709/914.html)
 
-瑞芯微4核 A35 with 1.5GHz，规格对标[RK3326](https://github.com/sochub/RK3326)，拥有更多的通信接口。
+瑞芯微4核 A35 with 1.5GHz，规格对标[RK3326](https://github.com/SoCXin/RK3326)，拥有更多的通信接口。
 
 主要特点：8M ISP，6串口
 
@@ -21,12 +24,9 @@
 
 包括芯片相关资料
 
-## 官方资源
 
- [linux系统](https://github.com/rockchip-linux/kernel.git)
-
-### [选型建议](https://github.com/sochub)
+### [选型建议](https://github.com/SoCXin)
 
 采用最新的高性价比cortex A35，核心卖点是6路UART
 
-##  [SoC资源平台](http://www.qitas.cn)
+###  [SoC芯平台](http://www.SoC.Xin)
